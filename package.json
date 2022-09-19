@@ -1,0 +1,12 @@
+{
+  "name": "ts-playground-for-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mone9610/ts-playground-for-me.git",
+  "author": "mone9610 <knemoto.prod@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}

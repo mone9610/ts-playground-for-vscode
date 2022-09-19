@@ -1,4 +1,4 @@
-# ts-playground-for-me
+# ts-playground-for-vscode
 TypeScript playground for vscode
 
 ### How to use

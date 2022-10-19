@@ -1,3 +1,5 @@
 export * from './array'
 export * from './fizzBuzz'
-export * from './list'
+export * from './input'
+// export * from './list'
+export * from './math'
